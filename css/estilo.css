@@ -184,16 +184,17 @@ height: 450px;
 }
 
 .imagen img{
-  /*background:url("https://platzi.com/blog/wp-content/uploads/2017/02/42.jpg");*/
+  background-image: url("../images/portada.jpg");
   height: 450px;
+  width: 1000px;
   margin-left: 175px;
-
+  border: none;
  }
 
 
 
 .portada .description{
- 
+
   background: rgba(255, 255, 255, .8);
   position: absolute;
   bottom: 40px;
