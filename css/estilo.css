@@ -27,6 +27,7 @@ align-items: center;
    right: 0;
 }
 
+
 .header .wrap{
   max-width: none;
 
@@ -54,7 +55,8 @@ form .search-field{
 }
 
 form .search-submit{
-  background-image: url(https://platzi.com/blog/wp-content/themes/platzi-blog/assets/images/search.png);
+  background-image: url(http://findicons.com/files/icons/2781/google_jfk_icons/128/search.png);
+  background-size: 50px 50px;
   background-repeat: no-repeat;
   background-position: center;
   -webkit-border-radius: 5px;
